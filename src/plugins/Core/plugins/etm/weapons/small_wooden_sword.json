@@ -1,0 +1,12 @@
+{
+    "name": "小木剑",
+    "info": "平平无奇的小木剑",
+    "element": "物理",
+    "max_level": 3,
+    "attack": {
+        "name": "木剑斩",
+        "harm": [1.2, 1.6]
+    },
+    "skills": null,
+    "special_moves":  null
+}

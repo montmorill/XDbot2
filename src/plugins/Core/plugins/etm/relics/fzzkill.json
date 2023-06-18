@@ -1,5 +1,11 @@
 {
-    "up": {},
-    "middle": {},
+    "name": "fzzkill",
+    "up": {
+        "damage_bonus": 0.10,
+        "health_bonus": 22
+    },
+    "middle": {
+        "damage_bonus": 0.12
+    },
     "down": {}
 }
